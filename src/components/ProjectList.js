@@ -14,6 +14,7 @@ function ProjectList({ projects }) {
             about={project.about}
             technologies={project.technologies}
             href={project.href}
+            
           />
         ))}
       </div>
